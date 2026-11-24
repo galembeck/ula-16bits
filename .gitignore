@@ -1,0 +1,16 @@
+# Quartus: arquivos gerados na compilação
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+*.qsf.bak
+*.qws
+*.rpt
+*.summary
+
+# ModelSim: arquivos gerados na simulação
+work/
+modelsim.ini
+transcript
+*.wlf
