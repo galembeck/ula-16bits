@@ -14,3 +14,7 @@ work/
 modelsim.ini
 transcript
 *.wlf
+
+# Projeto do Quartus (cada integrante cria o seu)
+*.qpf
+*.qsf
